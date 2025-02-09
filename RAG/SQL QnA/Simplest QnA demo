@@ -1,0 +1,9 @@
+Here is a Simplest Sql QnA Example.
+The prompt by user can retreive the answer from the database in Mysql localhost.
+Procesdure  followed
+1.Connection to My Sql
+2.Creating SQL query through LLM
+3.Executing SQL Qery through LLM and Retreiving the answer
+4.Generating the answer with LLM .
+
+Here is a point , Since it is Simplest but we have to provide a good design to the prompt to retreive data.
