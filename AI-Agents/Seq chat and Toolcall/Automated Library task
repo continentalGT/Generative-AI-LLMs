@@ -1,0 +1,4 @@
+A small Automation of workflow through AI Agent.
+1. A Librarian(Agent -LLM powered) will attend a Reader and ask information from him like name , roll_no and email id.
+2.Then an executive from library (Non-llm powered) will recommend a random book to the Reader .
+3.Then an another executive will mail the student regrading the issuance of the book on the mail id provided by the reader 
